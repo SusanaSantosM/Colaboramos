@@ -10,7 +10,7 @@ public class Main {
         System.out.println(" Introducir numero 3: ");
         int num3 = sc.nextInt();
 
-        Numero ob = new Numero();
-        ob.setNumero(num1,num2,num3);
+        Lucia ob = new Lucia();
+        ob.setLucia(num1,num2,num3);
     }
 }
